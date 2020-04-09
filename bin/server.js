@@ -2,7 +2,7 @@
 
 // importando modulos
 
-const app = require('../src/app');
+const app = require('./src/app');
 const debug = require('debug')('nodestr:server');
 const http = require('http');
 
